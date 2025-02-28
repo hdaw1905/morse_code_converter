@@ -1,4 +1,5 @@
 # Morse Code Converter
+![image](https://github.com/user-attachments/assets/a65119cf-bf04-4142-8609-9b0e4f17a0ff)
 
 A simple Morse Code Converter application built using Python's Tkinter GUI framework. This application converts plain text into Morse code, plays the generated Morse code audio, and allows users to save both the Morse code text and audio files.
 
