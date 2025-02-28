@@ -31,9 +31,7 @@ pip install pydub playsound pygame
 ```bash
 git clone https://github.com/hdaw1905/morse_code_converter.git
 ```
-```bash
-cd morse-code-converter
-```
+
 2. Run the application:
 Make sure you have the necessary dependencies installed. Then, execute the script:
 ```bash
